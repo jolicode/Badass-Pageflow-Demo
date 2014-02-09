@@ -1,0 +1,5 @@
+<Alloy>
+	<Window id="container">
+		<Widget src="com.jolicode.pageflow" id="pageflow" />
+	</Window>
+</Alloy>

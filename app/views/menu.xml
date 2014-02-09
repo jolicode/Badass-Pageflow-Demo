@@ -1,0 +1,7 @@
+<Alloy>
+    <View class="container">
+        <Label id="title" />
+        <Button id="demo1" />
+        <Button id="demo2" />
+    </View>
+</Alloy>

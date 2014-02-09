@@ -1,0 +1,17 @@
+".container": {
+    backgroundColor: "white",
+    layout: "vertical",
+}
+
+"#title": {
+    height: 50,
+    text: "Badass Pageflow"
+}
+
+"#demo1": {
+    title: "Demo 1"
+}
+
+"#demo2": {
+    title: "Demo 2"
+}

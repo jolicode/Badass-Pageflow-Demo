@@ -1,0 +1,3 @@
+[submodule "app/widgets/com.jolicode.pageflow"]
+	path = app/widgets/com.jolicode.pageflow
+	url = https://github.com/jolicode/Badass-Pageflow.git
